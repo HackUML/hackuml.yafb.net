@@ -21,7 +21,7 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Test Site', // Title for your website.
+  title: 'CodeCRM',
   tagline: 'A website for testing',
   url: 'https://your-docusaurus-test-site.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
@@ -48,8 +48,8 @@ const siteConfig = {
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/favicon.ico',
-  footerIcon: 'img/favicon.ico',
+  headerIcon: 'img/codecrm_logo_white.png',
+  footerIcon: 'img/codecrm_logo_white.png',
   favicon: 'img/favicon.ico',
 
   /* Colors for website */
