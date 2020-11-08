@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://your-docusaurus-test-site.com/blog</id>
-    <title>Test Site Blog</title>
+    <title>CodeCRM Blog</title>
     <updated>2017-10-24T06:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
-    <subtitle>The best place to stay up-to-date with the latest Test Site news and events.</subtitle>
-    <logo>https://your-docusaurus-test-site.com/img/favicon.ico</logo>
+    <subtitle>The best place to stay up-to-date with the latest CodeCRM news and events.</subtitle>
+    <logo>https://your-docusaurus-test-site.com/img/codecrm_logo_white.png</logo>
     <rights>Copyright © 2020 Your Name or Your Company Name</rights>
     <entry>
         <title type="html"><![CDATA[New Version 1.0.0]]></title>

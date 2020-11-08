@@ -5,6 +5,10 @@
     "previous": "Previous",
     "tagline": "A website for testing",
     "docs": {
+      "CR001": {
+        "title": "Latin-ish",
+        "sidebar_label": "Example Page"
+      },
       "doc1": {
         "title": "Latin-ish",
         "sidebar_label": "Example Page"
